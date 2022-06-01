@@ -1,0 +1,238 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.5.31)  1 JUN 2022 23:30
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/Users/mazzshaikh/Documents/MATLAB/S&S Project/Latex Source/Signals and Systems Project.tex"
+(/Users/mazzshaikh/Documents/MATLAB/S&S Project/Latex Source/Signals and Systems Project.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-05-04> (/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+) (/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks19
+ (/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg)) (/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listing/listing.sty
+Package: listing 1999/05/25
+
+Package `listing', V1.2, <1999/05/25>
+\c@listing=\count196
+) (/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+) (/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count197
+\float@exts=\toks20
+\float@box=\box50
+\@float@everytoks=\toks21
+\@floatcapt=\box51
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/listings.sty
+\lst@mode=\count198
+\lst@gtempboxa=\box52
+\lst@token=\toks22
+\lst@length=\count199
+\lst@currlwidth=\dimen149
+\lst@column=\count266
+\lst@pos=\count267
+\lst@lostspace=\dimen150
+\lst@width=\dimen151
+\lst@newlines=\count268
+\lst@lineno=\count269
+\lst@maxwidth=\dimen152
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count270
+\lst@skipnumbers=\count271
+\lst@framebox=\box53
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count272
+\l__pdf_internal_box=\box54
+) (Signals and Systems Project.aux)
+\openout1 = `"Signals and Systems Project.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: legalpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 867.24002pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=1011.78pt
+* \textwidth=469.75502pt
+* \textheight=867.24002pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count273
+\scratchdimen=\dimen153
+\scratchbox=\box55
+\nofMPsegments=\count274
+\nofMParguments=\count275
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count276
+\MPscratchDim=\dimen154
+\MPnumerator=\count277
+\makeMPintoPDFobject=\count278
+\everyMPtoPDFconversion=\toks24
+) (/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count279
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+ [1
+
+{/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}]
+<Plot of Signal.png, id=9, 1124.2pt x 843.15pt>
+File: Plot of Signal.png Graphic file (type png)
+<use Plot of Signal.png>
+Package pdftex.def Info: Plot of Signal.png  used on input line 33.
+(pdftex.def)             Requested size: 449.67204pt x 337.25401pt.
+<Downsample 3.png, id=10, 1124.2pt x 843.15pt>
+File: Downsample 3.png Graphic file (type png)
+<use Downsample 3.png>
+Package pdftex.def Info: Downsample 3.png  used on input line 42.
+(pdftex.def)             Requested size: 449.67204pt x 337.25401pt.
+<Downsample 5.png, id=11, 1124.2pt x 843.15pt>
+File: Downsample 5.png Graphic file (type png)
+<use Downsample 5.png>
+Package pdftex.def Info: Downsample 5.png  used on input line 55.
+(pdftex.def)             Requested size: 449.67204pt x 337.25401pt.
+ [2 <./Plot of Signal.png (PNG copy)> <./Downsample 3.png (PNG copy)>]
+<Interpolated 3.png, id=15, 1124.2pt x 843.15pt>
+File: Interpolated 3.png Graphic file (type png)
+<use Interpolated 3.png>
+Package pdftex.def Info: Interpolated 3.png  used on input line 66.
+(pdftex.def)             Requested size: 449.67204pt x 337.25401pt.
+<Interpolated 5.png, id=16, 1124.2pt x 843.15pt>
+File: Interpolated 5.png Graphic file (type png)
+<use Interpolated 5.png>
+Package pdftex.def Info: Interpolated 5.png  used on input line 77.
+(pdftex.def)             Requested size: 449.67204pt x 337.25401pt.
+ [3 <./Downsample 5.png (PNG copy)> <./Interpolated 3.png (PNG copy)>]
+<Rate change.png, id=20, 1124.2pt x 843.15pt>
+File: Rate change.png Graphic file (type png)
+<use Rate change.png>
+Package pdftex.def Info: Rate change.png  used on input line 88.
+(pdftex.def)             Requested size: 449.67204pt x 337.25401pt.
+ [4 <./Interpolated 5.png (PNG copy)> <./Rate change.png (PNG copy)>]
+<Part 3.png, id=24, 1124.2pt x 843.15pt>
+File: Part 3.png Graphic file (type png)
+<use Part 3.png>
+Package pdftex.def Info: Part 3.png  used on input line 99.
+(pdftex.def)             Requested size: 449.67204pt x 337.25401pt.
+ [5 <./Part 3.png (PNG copy)>] (Signals and Systems Project.aux) ) 
+Here is how much of TeX's memory you used:
+ 3432 strings out of 480549
+ 56522 string characters out of 2892414
+ 344278 words of memory out of 3000000
+ 21339 multiletter control sequences out of 15000+600000
+ 473206 words of font info for 41 fonts, out of 8000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 55i,7n,62p,284b,262s stack positions out of 5000i,500n,10000p,200000b,80000s
+</Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on "Signals and Systems Project.pdf" (5 pages, 337826 bytes).
+PDF statistics:
+ 45 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
