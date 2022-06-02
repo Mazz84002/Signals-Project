@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.5.31)  1 JUN 2022 23:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.5.31)  2 JUN 2022 00:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/mazzshaikh/Documents/MATLAB/S&S Project/Latex Source/Signals and Systems Project.tex"
-(/Users/mazzshaikh/Documents/MATLAB/S&S Project/Latex Source/Signals and Systems Project.tex
+**"/Users/mazzshaikh/Documents/MATLAB/S&S Project/Signals-Project/Latex Source/Signals and Systems Project.tex"
+(/Users/mazzshaikh/Documents/MATLAB/S&S Project/Signals-Project/Latex Source/Signals and Systems Project.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-05-04> (/Users/mazzshaikh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -223,14 +223,14 @@ Package pdftex.def Info: Part 3.png  used on input line 99.
  [5 <./Part 3.png (PNG copy)>] (Signals and Systems Project.aux) ) 
 Here is how much of TeX's memory you used:
  3432 strings out of 480549
- 56522 string characters out of 2892414
+ 56602 string characters out of 2892414
  344278 words of memory out of 3000000
  21339 multiletter control sequences out of 15000+600000
  473206 words of font info for 41 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 55i,7n,62p,284b,262s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,7n,62p,300b,262s stack positions out of 5000i,500n,10000p,200000b,80000s
 </Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "Signals and Systems Project.pdf" (5 pages, 337826 bytes).
+Output written on "Signals and Systems Project.pdf" (5 pages, 337689 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
